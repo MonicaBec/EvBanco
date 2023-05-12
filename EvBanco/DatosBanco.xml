@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<banco>
+    <cliente>
+        <dni>0699999m</dni>
+        <nombreApellidos>irina</nombreApellidos>
+        <fechaNacimiento>13-09-2938</fechaNacimiento>
+        <saldo>fdakf</saldo>
+    </cliente>
+</banco>
